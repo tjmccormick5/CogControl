@@ -1,0 +1,7 @@
+practiceimage,PracticeimageCorrAns,congruent,practiceSentence,practiceSentenceCompQ,compRespL,compRespR,compRespCorr,block
+congruent_left,f,1,Este es un ejemplo de las frases que ver‡s a lo largo del experimento,El a–o es 2016.,Verdadero,Falso,j,practice
+congruent_right,j,1,A veces las oraciones ser‡n muy largas,El cielo es azul.,Verdadero,Falso,f,practice
+incongruent_left,f,0,A veces ser‡n m‡s cortas,El pa’s al norte de los EEUU es Canad‡.,Verdadero,Falso,f,practice
+incongruent_right,j,0,Tu tarea es leer la frase de la manera m‡s natural posible,El pa’s al oeste de Espa–a es Portugal.,Verdadero,Falso,f,practice
+single_left,f,0,Las preguntas que siguen cada oraci—n a veces ser‡n obvias y a veces ser‡n m‡s dif’ciles,El pa’s al sur de MŽxico es Rusia.,Verdadero,Falso,j,practice
+single_right,j,0,No pasa nada si tienes que adivinar la respuesta de vez en cuando,No entiendo absolutamente nada de este estudio.,Verdadero,Falso,j,practice
